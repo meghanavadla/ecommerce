@@ -1,0 +1,8 @@
+2022-03-19 20:17:28,674 INFO com.example.demo.ecommerceApplication [main] Starting ecommerceApplication on PPH-LAP-01257 with PID 185094 (/home/meghanavadla/Downloads/Project-4/Udacity-eCommerce-Application-master/target/classes started by meghanavadla in /home/meghanavadla/Downloads/Project-4)
+2022-03-19 20:17:28,676 DEBUG com.example.demo.ecommerceApplication [main] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2022-03-19 20:17:28,676 INFO com.example.demo.ecommerceApplication [main] No active profile set, falling back to default profiles: default
+2022-03-19 20:17:31,233 INFO com.example.demo.ecommerceApplication [main] Started ecommerceApplication in 3.1 seconds (JVM running for 4.32)
+2022-03-19 20:18:08,746 INFO com.example.demo.ecommerceApplication [main] Starting ecommerceApplication on PPH-LAP-01257 with PID 185218 (/home/meghanavadla/Downloads/Project-4/Udacity-eCommerce-Application-master/target/classes started by meghanavadla in /home/meghanavadla/Downloads/Project-4)
+2022-03-19 20:18:08,748 DEBUG com.example.demo.ecommerceApplication [main] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2022-03-19 20:18:08,748 INFO com.example.demo.ecommerceApplication [main] No active profile set, falling back to default profiles: default
+2022-03-19 20:18:11,055 INFO com.example.demo.ecommerceApplication [main] Started ecommerceApplication in 2.556 seconds (JVM running for 2.97)
